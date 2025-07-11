@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/functions",
+    "version": "1.0.0",
+    "description": "RowsNCols functions package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/dag",
+    "version": "1.0.0",
+    "description": "RowsNCols dag package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

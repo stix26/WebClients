@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/date-parser",
+    "version": "1.0.0",
+    "description": "RowsNCols date-parser package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

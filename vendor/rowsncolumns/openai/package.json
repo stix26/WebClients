@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/openai",
+    "version": "1.0.0",
+    "description": "RowsNCols openai package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

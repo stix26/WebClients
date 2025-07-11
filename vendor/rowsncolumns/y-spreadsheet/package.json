@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/y-spreadsheet",
+    "version": "1.0.0",
+    "description": "RowsNCols y-spreadsheet package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

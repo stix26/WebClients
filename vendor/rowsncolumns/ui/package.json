@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/ui",
+    "version": "1.0.0",
+    "description": "RowsNCols ui package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

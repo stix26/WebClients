@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/icons",
+    "version": "1.0.0",
+    "description": "RowsNCols icons package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

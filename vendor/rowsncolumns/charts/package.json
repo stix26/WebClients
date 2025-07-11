@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/charts",
+    "version": "1.0.0",
+    "description": "RowsNCols charts package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

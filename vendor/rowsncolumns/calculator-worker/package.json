@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/calculator-worker",
+    "version": "1.0.0",
+    "description": "RowsNCols calculator-worker package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

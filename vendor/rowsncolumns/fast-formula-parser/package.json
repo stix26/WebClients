@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/fast-formula-parser",
+    "version": "1.0.0",
+    "description": "RowsNCols fast-formula-parser package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/spreadsheet",
+    "version": "1.0.0",
+    "description": "RowsNCols spreadsheet package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

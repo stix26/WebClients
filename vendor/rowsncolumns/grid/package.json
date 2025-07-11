@@ -1,0 +1,8 @@
+{
+    "name": "@rowsncolumns/grid",
+    "version": "1.0.0",
+    "description": "RowsNCols grid package",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "RowsNCols"
+}

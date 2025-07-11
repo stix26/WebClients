@@ -1,0 +1,8 @@
+{
+    "name": "@proton/collect-metrics",
+    "version": "1.0.0",
+    "description": "Webpack plugin for collecting build metrics",
+    "main": "index.js",
+    "license": "GPL-3.0",
+    "author": "Proton AG"
+}

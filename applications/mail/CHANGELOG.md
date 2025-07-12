@@ -559,7 +559,7 @@ Proton - Privacy by default.
 
 -   Fixed an issue where particular pieces of text would not be displayed in forwarded messages if inserted after a certain sequence of characters (e.g. three dashes in a row)
 -   Fixed an issue where under rare circumstances, some messages would not load on the right side when in column layout
--   Fixed an issue where sometimes the cursor would jump back to the beginning of the text already typed when inside the composer
+-   Fixed an issue where sometimes the text position would jump back to the beginning of the text already typed when inside the composer
 -   Fixed an issue where the '-' character would not be displayed correctly in the "Original message" separator within a forwarded/replied to email
 -   Fixed an issue where inline images would sometimes not load immediately when replying to a forwarded message and open the newly sent message right away
 -   Fixed an issue where a "The address might be misspelled" error message would display for valid email addresses in the composer

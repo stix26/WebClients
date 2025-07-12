@@ -182,7 +182,7 @@
 
 ### Others
 
--   fix - cursor on scroll track in Chrome with textarea
+-   fix - pointer on scroll track in Chrome with textarea
 -   revamped a bit `pm-field--linkSelect` stuff
 -   fix `item-weight` display in row mode
 -   fix - notifications display on mobile
@@ -554,7 +554,7 @@
 
 -   fix special case for `block-info`
 -   fixed conversations and `main-area--withToolbar`
--   fixed cursor value for modals (Edge bug)
+-   fixed pointer value for modals (Edge bug)
 -   fixed header structure of website
 -   fixed top navigation
 -   fixed selected conversation state
